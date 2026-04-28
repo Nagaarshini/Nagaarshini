@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi! I'm Nagaarshini
 
-**I'm Nagaarshini** a passionate developer interested in building impactful projects and continuously learning new technologies.
+a passionate developer interested in building impactful projects and continuously learning new technologies.
 
 
 Here are some ideas to get you started:
