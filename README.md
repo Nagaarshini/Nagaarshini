@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Nagaarshini/Nagaarshini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Nagaarshini** a passionate developer interested in building impactful projects and continuously learning new technologies.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on
+  Building projects in **[Advanced Route Optimization]**
+  Improving my skills in **[ C, C++, Java, Python]**
+
+- 🌱 I’m currently learning
+  **[Data Structure, DBMS, Operating System]**
+  
+- 💬 Ask me about
+  **[ My strength:  C, C++, Java, Python ]**
+- 📫 How to reach me:
+  Email : **sruthi2005.vendi@gmail.com**
+   LinkedIn : **https://www.linkedin.com/in/nagaarshini-v-38a5bb3a8/details/skills/**
+  
+- ⚡ Fun fact: I enjoy debugging more than writing code 😄
+
