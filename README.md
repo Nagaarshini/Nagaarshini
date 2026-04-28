@@ -1,4 +1,4 @@
-## Hi! I'm Nagaarshini
+## Hi, I'm Nagaarshini
 
 a passionate developer interested in building impactful projects and continuously learning new technologies.
 
